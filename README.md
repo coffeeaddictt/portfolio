@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, C/C++, Swift, MATLAB
+#### Technical Skills: Python, SQL, C/C++, Seaborn, MATLAB
 
 ## Education
 - ECOLE D’INFORMATIQUE - Mastère Data & IA | La grande école du web HETIC (_2024-Présent_)			       		
