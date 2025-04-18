@@ -1,20 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, C/C++, Seaborn, MATLAB
+#### Technical Skills: Python, SQL, C/C++, Pandas, Seaborn, Scikit-learn, TensorFlow, Git/GitHub
 
 ## Education
 - ECOLE D’INFORMATIQUE - Mastère Data & IA | La grande école du web HETIC (_2024-Présent_)			       		
 - ECOLE D’INGÉNIEUR - Ingénierie Informatique et Réseaux | EMSI: Ecole Marocaine des Sciences de l'lngenieur (_2023-2024_)	 			        		
 - Baccalauréat International Option Français (BIOF) | Lycée Mohammed V (_2019_)
-
-## Work Experience
-**Stagiaire en support technique orienté données @VENTEC (_2022_)**
-- Développement d’interfaces web en HTML/CSS permettant une présentation claire et structurée des informations et des données.
-- Participation à la mise en place d’environnements techniques destinés à la collecte et à la visualisation de données.
-
-**Stagiaire Support IT (_2021_)**
-- Installation et configuration de systèmes Windows Server et de postes de travail, avec gestion fine des droits utilisateurs et des accès aux ressources partagées.
-- Utilisation d’outils bureautiques (notamment Excel) et de scripts de configuration, avec une bonne compréhension des logiques de circulation de l’information et des flux de données.
 
 ## Projects
 ### Depression Analysis Study
