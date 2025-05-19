@@ -4,7 +4,7 @@
 
 ## Education
 - ECOLE D’INFORMATIQUE - Mastère Data & IA | La grande école du web HETIC (_2024-Présent_)			       		
-- ECOLE D’INGÉNIEUR - Ingénierie Informatique et Réseaux | EMSI: Ecole Marocaine des Sciences de l'lngenieur (_2023-2024_)	 			        		
+- ECOLE D’INGÉNIEUR - Ingénierie Informatique et Réseaux | EMSI: Ecole Marocaine des Sciences de l'lngenieur	 			        		
 - Baccalauréat International Option Français (BIOF) | Lycée Mohammed V (_2019_)
 
 ## Projects
